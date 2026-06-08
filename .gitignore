@@ -1,0 +1,14 @@
+# --- Compilation & IDE Junk ---
+*.pyc
+.build/
+build/
+bin/
+layout.index
+sketch.metadata
+
+# --- VS Code & OS configurations ---
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
